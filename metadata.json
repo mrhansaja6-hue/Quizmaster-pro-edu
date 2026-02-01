@@ -1,0 +1,4 @@
+{
+  "name": "QuizMaster Pro",
+  "description": "A comprehensive real-time examination platform with separate Student and Admin portals. Features live exam proctoring, instant grading, question bank management, and real-time synchronization across clients using a simulated WebSocket architecture."
+}
